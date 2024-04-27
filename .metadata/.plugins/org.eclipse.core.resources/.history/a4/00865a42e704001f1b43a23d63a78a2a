@@ -1,0 +1,5 @@
+package dispositivos.navegador;
+
+public class NavegadorInternet {
+
+}

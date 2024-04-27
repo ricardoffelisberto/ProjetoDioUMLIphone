@@ -1,0 +1,5 @@
+package dispositivos.mp3;
+
+public class ReprodutorMusical {
+
+}

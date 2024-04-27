@@ -1,0 +1,7 @@
+package dispositivos.reprodutor;
+
+public interface ReprodutorMusical {
+	public void reproduzir() {
+		System.out.println("Reproduzindo a música!");
+	}
+}

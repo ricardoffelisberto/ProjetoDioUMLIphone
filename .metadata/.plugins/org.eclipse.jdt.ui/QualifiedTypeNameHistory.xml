@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="dispositivos.musica.ReprodutorMusical"/>
+    <fullyQualifiedTypeName name="dispositivos.reprodutor.ReprodutorMusical"/>
+    <fullyQualifiedTypeName name="dispositivos.telefone.AparelhoTelefonico"/>
+    <fullyQualifiedTypeName name="dispositivos.navegador.NavegadorInternet"/>
+    <fullyQualifiedTypeName name="dispositivos.smartphone.Smartphone"/>
+</qualifiedTypeNameHistroy>

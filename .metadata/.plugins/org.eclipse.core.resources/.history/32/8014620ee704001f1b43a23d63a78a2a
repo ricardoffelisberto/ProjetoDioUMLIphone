@@ -1,0 +1,5 @@
+package dispositivos.multifuncional;
+
+public class Smartphone implements ReprodutorMusical, NavegadorInternet, AparelhoTelefonico{
+
+}

@@ -1,0 +1,7 @@
+package pacotes;
+
+public class Carro {
+	public void Ligar () {
+		System.out.println("Carro ligado!");
+	}
+}

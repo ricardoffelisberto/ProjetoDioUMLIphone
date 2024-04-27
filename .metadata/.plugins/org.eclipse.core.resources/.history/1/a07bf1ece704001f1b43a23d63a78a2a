@@ -1,0 +1,11 @@
+package dispositivos.smartphone;
+
+import dispositivos.navegador.NavegadorInternet;
+import dispositivos.reprodutor.ReprodutorMusical;
+import dispositivos.telefone.AparelhoTelefonico;
+
+public class Smartphone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet {
+	public void reproduzir() {
+		System.out.println("Reproduzindo a música!");
+	}
+}
